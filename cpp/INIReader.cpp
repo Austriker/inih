@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include "../ini.h"
 #include "INIReader.h"
+
 using std::string;
 
 INIReader::INIReader(string filename)
